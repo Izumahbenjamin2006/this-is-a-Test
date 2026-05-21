@@ -2,6 +2,11 @@
 
 A simple, modern, and fully functional todo application built with HTML, CSS, and JavaScript.
 
+## 🎯 Quick Start
+
+- **Landing Page**: Open `landing.html` in your browser to see the beautiful landing page
+- **Todo App**: Click "Launch App" or open `index.html` directly
+
 ## Features
 
 - ✅ **Add Tasks** - Quickly add new tasks to your todo list
@@ -15,10 +20,14 @@ A simple, modern, and fully functional todo application built with HTML, CSS, an
 
 ## How to Use
 
-1. **Open the App**
-   - Simply open `index.html` in your web browser
+1. **Open the Landing Page** (Optional but recommended)
+   - Open `landing.html` in your web browser to see the beautiful landing page
+   - Click "Launch App" button to access the todo app
 
-2. **Add a Task**
+2. **Or Open the App Directly**
+   - Simply open `index.html` in your web browser to skip the landing page
+
+3. **Add a Task**
    - Type your task in the input field
    - Press Enter or click the "Add" button
    - The task will appear in your list
@@ -43,10 +52,13 @@ A simple, modern, and fully functional todo application built with HTML, CSS, an
 
 ```
 .
-├── index.html      # Main HTML file with app structure
-├── styles.css      # CSS styling and animations
-├── script.js       # JavaScript functionality
-└── README.md       # This file
+├── landing.html           # Beautiful landing page
+├── landing-styles.css     # Landing page styling
+├── landing-script.js      # Landing page interactivity
+├── index.html             # Main todo app HTML
+├── styles.css             # Todo app styling and animations
+├── script.js              # Todo app functionality
+└── README.md              # This file
 ```
 
 ## Technical Details
